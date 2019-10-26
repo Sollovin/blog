@@ -6,6 +6,10 @@ toc: false
 images:
 tags: 
   - untagged
+markup: pandoc
 ---
 Hello World!  
-你好，世界！
+你好，世界！  
+行内公式测试：$y = x$  
+行间公式测试：  
+$$ y = x $$
