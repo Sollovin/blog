@@ -1,0 +1,11 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "hermit"
+logoTitle = "Hollow's Reserved Cabin"
+
+# 是否使用mathjax（数学公式）  
+mathjax = true           # see https://www.mathjax.org/   
+mathjaxEnableSingleDollar = true   # 是否使用 $...$ 即可進行inline latex渲染  
+mathjaxEnableAutoNumber = false   # 是否使用公式自动编号
+
